@@ -1,12 +1,10 @@
 <h2 align="center">
-  Challenger CBYK - Frontend
+  Challenger CBYK - Backend
 </h2>
 
 ## :mortar_board: Technologies
 
-- [ReactJS](https://reactjs.org/docs/getting-started.html)
-- [Styled Components](https://styled-components.com/docs)
-- [React Icons](https://react-icons.github.io/react-icons/)
+- [Krakenjs](http://krakenjs.com)
 
 ## :computer: Configure
 
@@ -18,14 +16,15 @@ $ cd challenger-cbyk
 ```
 
 ```sh
-$ yarn
+$ cd backend
+$ npm install
 ```
 
 ## :video_game: Running
 
 ```sh
 # in the terminal
-$ yarn start
+$ npm run dev
 ```
 
 Developed by [me](https://github.com/juliosouzam) with :coffee: and :heart:

@@ -1,9 +1,10 @@
 <h2 align="center">
-  Challenger CBYK - Frontend
+  Challenger CBYK
 </h2>
 
 ## :mortar_board: Technologies
 
+- [Krakenjs](http://krakenjs.com)
 - [ReactJS](https://reactjs.org/docs/getting-started.html)
 - [Styled Components](https://styled-components.com/docs)
 - [React Icons](https://react-icons.github.io/react-icons/)
@@ -17,14 +18,19 @@ $ git clone git remote add origin git@github.com:juliosouzam/challenger-cbyk.git
 $ cd challenger-cbyk
 ```
 
+## Backend
+
 ```sh
-$ yarn
+$ cd backend
+$ npm install
+$ npm run dev
 ```
 
-## :video_game: Running
+## Frontend
 
 ```sh
-# in the terminal
+$ cd frontend
+$ yarn
 $ yarn start
 ```
 

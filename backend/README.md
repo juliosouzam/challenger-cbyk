@@ -1,4 +1,0 @@
-backend
-===========
-
-A challenger CBYK
