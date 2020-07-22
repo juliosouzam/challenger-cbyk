@@ -18,6 +18,7 @@ $ cd challenger-cbyk
 ```
 
 ```sh
+$ cd frontend
 $ yarn
 ```
 
